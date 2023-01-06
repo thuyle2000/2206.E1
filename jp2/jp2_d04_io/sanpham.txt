@@ -1,0 +1,4 @@
+P01, coca cola, us, 10
+P02, pepsi cola, vn, 6
+P03, snack, tl, 9
+P04, coca cola, vn, 8
