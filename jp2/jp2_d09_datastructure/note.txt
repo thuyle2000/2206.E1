@@ -1,0 +1,25 @@
+1/ colection: cau truc du lieu 1 cot
+	list : null, douplicate, ordered position (index)
+		ArrayList, LinkedList, [Vector]
+
+	set : null (not null), unique , random postion (hash code) 
+		HashSet, LinkedHashSet, TreeSet	
+		Stack (LIFO : last in first out)
+
+
+	- size(), isEmpty()
+	- add(), remove(), contain(), get(), set()
+
+2/ map: cau truc du lieu 2 cot
+		HashMap, TreeMap, [HashTable] <- Property
+
+	- key (not null, unique) / value : key -> value
+	- size(), isEmpty()
+	- put(K,V),  neu K trung voi K co san => replace()
+	- containKey(K): kiem tra K ton tai chua
+	- get(K) => tra ve V tuong ung
+	- keySet() / values()
+
+
+=> tranh ep kieu du lieu => Generic
+=> duyet du lieu => foreach

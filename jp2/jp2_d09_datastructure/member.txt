@@ -1,0 +1,3 @@
+M102-2023, nguyen hoa dang     ,  20, phan dang luu
+M101-2023, pham van chien      ,  19, cmt8
+M100-2023, nguyen van dong     ,  18, no trang long
