@@ -1,0 +1,14 @@
+1. add driver jdbc vo nut libraries cua project (Add JAR/Folder)
+2. copy toan bo folder [model] cua project [jp2_d05] vo source package 
+   (chut nua se modify lai cac class)
+3. tao bang tbEmployee trong CSDL sem2_demo
+   (nho dinh nghia 'primary key' tren cot [id] )
+4. nhap 1 so mau tin vo bang tbEmployee
+
+5. tao class Employee, co cau truc giong table [tbEmployee]
+6. tao class EmployeeDAO (theo cau truc cua cac bai demo mau)
+
+7. tao class TestEmployee, trong package [app]
+
+
+ 
